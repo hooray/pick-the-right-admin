@@ -17,17 +17,17 @@
 > [!TIP]
 > 利益相关：Fantastic-admin 作者
 
-|                              后台管理系统                              |                                        星标                                         |
-| :--------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
-|     [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)     | ![star](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=social) |
-|      [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)       | ![star](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin?style=social)  |
-|       [v3-admin-vite](https://github.com/un-pany/v3-admin-vite)        |   ![star](https://img.shields.io/github/stars/un-pany/v3-admin-vite?style=social)   |
-|      [soybean-admin](https://github.com/soybeanjs/soybean-admin)       |  ![star](https://img.shields.io/github/stars/soybeanjs/soybean-admin?style=social)  |
-|       [naive-ui-admin](https://github.com/jekip/naive-ui-admin)        |   ![star](https://img.shields.io/github/stars/jekip/naive-ui-admin?style=social)    |
-|       [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)       |   ![star](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social)   |
-| [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) |   ![star](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social)   |
-|   [Fantastic-admin 基础版](https://github.com/fantastic-admin/basic)   |   ![star](https://img.shields.io/github/stars/fantastic-admin/basic?style=social)   |
-|  [Fantastic-admin 专业版](https://fantastic-admin.github.io/buy.html)  |                                                                                     |
+|                              后台管理系统                              |                                        星标                                         |                                 最近提交时间                                 |
+| :--------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+|     [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)     |   ![](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=social)   |   ![](https://img.shields.io/github/last-commit/pure-admin/vue-pure-admin)   |
+|      [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)       |   ![](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin?style=social)    |   ![](https://img.shields.io/github/last-commit/HalseySpicy/Geeker-Admin)    |
+|       [v3-admin-vite](https://github.com/un-pany/v3-admin-vite)        |     ![](https://img.shields.io/github/stars/un-pany/v3-admin-vite?style=social)     |     ![](https://img.shields.io/github/last-commit/un-pany/v3-admin-vite)     |
+|      [soybean-admin](https://github.com/soybeanjs/soybean-admin)       |    ![](https://img.shields.io/github/stars/soybeanjs/soybean-admin?style=social)    |    ![](https://img.shields.io/github/last-commit/soybeanjs/soybean-admin)    |
+|       [naive-ui-admin](https://github.com/jekip/naive-ui-admin)        |     ![](https://img.shields.io/github/stars/jekip/naive-ui-admin?style=social)      |     ![](https://img.shields.io/github/last-commit/jekip/naive-ui-admin)      |
+|       [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)       |     ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social)     |     ![](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin)     |
+| [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) | ![](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social) | ![](https://img.shields.io/github/last-commit/youlaitech/vue3-element-admin) |
+|   [Fantastic-admin 基础版](https://github.com/fantastic-admin/basic)   |     ![](https://img.shields.io/github/stars/fantastic-admin/basic?style=social)     |     ![](https://img.shields.io/github/last-commit/fantastic-admin/basic)     |
+|  [Fantastic-admin 专业版](https://fantastic-admin.github.io/buy.html)  |                                                                                     |                                                                              |
 
 ## UI 库
 
