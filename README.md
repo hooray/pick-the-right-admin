@@ -15,7 +15,7 @@
 ## 入选系统
 
 > [!TIP]
-> 利益相关：Fantastic-admin 作者
+> 使用 Github 高级搜索 `stars:>1000 language:Vue language:Typescript pushed:>2024-06-01 admin` 进行初步筛选，再进行人肉筛选。
 
 |                              后台管理系统                              |                                        星标                                         |                                 最近提交时间                                 |
 | :--------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
@@ -28,6 +28,8 @@
 | [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) | ![](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social) | ![](https://img.shields.io/github/last-commit/youlaitech/vue3-element-admin) |
 |   [Fantastic-admin 基础版](https://github.com/fantastic-admin/basic)   |     ![](https://img.shields.io/github/stars/fantastic-admin/basic?style=social)     |     ![](https://img.shields.io/github/last-commit/fantastic-admin/basic)     |
 |  [Fantastic-admin 专业版](https://fantastic-admin.github.io/buy.html)  |                                                                                     |                                                                              |
+
+> 利益相关：Fantastic-admin 作者
 
 ## UI 库
 
