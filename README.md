@@ -8,14 +8,14 @@
 > - 技术栈为 Vue 3 + Vite 5 ，纯前端，无后端依赖
 > - Github stars 数高于 1000
 > - 有提供开发文档或教程
-> - 持续更新维护，最近一次提交距今不超过 1 个月
+> - 持续更新维护，最近一次提交距今不超过 3 个月
 >
 > 除此之外，以下的对比项，仅检查系统是否支持，不对使用方式、使用范围等进行评判，因为不同系统有不同的设计理念。举例来说，水印功能有的系统是支持全局设置，而有的系统则是页面级别的设置，我会一律视为支持该功能。
 
 ## 入选系统
 
 > [!TIP]
-> 使用 Github 高级搜索 `stars:>1000 language:Vue language:Typescript pushed:>2024-06-01 admin` 进行初步筛选，再进行人肉筛选。
+> 使用 Github 高级搜索 `stars:>1000 language:Vue language:Typescript pushed:>2024-10-01 admin` 进行初步筛选，再进行人肉筛选。
 
 |                              后台管理系统                              |                                        星标                                         |                                 最近提交时间                                 |
 | :--------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
@@ -26,6 +26,7 @@
 |       [naive-ui-admin](https://github.com/jekip/naive-ui-admin)        |     ![](https://img.shields.io/github/stars/jekip/naive-ui-admin?style=social)      |     ![](https://img.shields.io/github/last-commit/jekip/naive-ui-admin)      |
 |       [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)       |     ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social)     |     ![](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin)     |
 | [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) | ![](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social) | ![](https://img.shields.io/github/last-commit/youlaitech/vue3-element-admin) |
+|       [vue-bag-admin](https://github.com/hangjob/vue-bag-admin)        |     ![](https://img.shields.io/github/stars/hangjob/vue-bag-admin?style=social)     |     ![](https://img.shields.io/github/last-commit/hangjob/vue-bag-admin)     |
 |   [Fantastic-admin 基础版](https://github.com/fantastic-admin/basic)   |     ![](https://img.shields.io/github/stars/fantastic-admin/basic?style=social)     |     ![](https://img.shields.io/github/last-commit/fantastic-admin/basic)     |
 |  [Fantastic-admin 专业版](https://fantastic-admin.github.io/buy.html)  |                                                                                     |                                                                              |
 
@@ -45,6 +46,7 @@
 |     naive-ui-admin     |                    [Naive UI](https://www.naiveui.com/)                     |
 |     vue-vben-admin     |                    [Ant Design Vue](https://antdv.com/)                     |
 |   vue3-element-admin   |                  [Element Plus](https://element-plus.org/)                  |
+|     vue-bag-admin      |                    [Naive UI](https://www.naiveui.com/)                     |
 | Fantastic-admin 基础版 |       [Element Plus](https://element-plus.org/) / 支持更换任意 UI 库        |
 | Fantastic-admin 专业版 |       [Element Plus](https://element-plus.org/) / 支持更换任意 UI 库        |
 
@@ -60,8 +62,9 @@
 |     v3-admin-vite      |                |
 |     soybean-admin      |                |
 |     naive-ui-admin     |                |
-|     vue-vben-admin     |       ✅       |
+|     vue-vben-admin     |                |
 |   vue3-element-admin   |       ✅       |
+|     vue-bag-admin      |                |
 | Fantastic-admin 基础版 |       ✅       |
 | Fantastic-admin 专业版 |       ✅       |
 
@@ -121,8 +124,9 @@
 |     v3-admin-vite      |  ✅   |       |       |  ✅   |  ✅   |       |       |
 |     soybean-admin      |  ✅   |  ✅   |  ✅   |  ✅   |  ✅   |       |       |
 |     naive-ui-admin     |  ✅   |       |       |  ✅   |  ✅   |       |       |
-|     vue-vben-admin     |  ✅   |  ✅   |       |  ✅   |  ✅   |       |       |
+|     vue-vben-admin     |  ✅   |  ✅   |  ✅   |  ✅   |  ✅   |       |       |
 |   vue3-element-admin   |  ✅   |       |  ✅   |  ✅   |  ✅   |       |       |
+|     vue-bag-admin      |  ✅   |  ✅   |       |       |  ✅   |       |       |
 | Fantastic-admin 基础版 |  ✅   |  ✅   |  ✅   |       |  ✅   |       |       |
 | Fantastic-admin 专业版 |  ✅   |  ✅   |  ✅   |  ✅   |  ✅   |  ✅   |  ✅   |
 
@@ -137,6 +141,7 @@
 |     naive-ui-admin     |    ✅    |      ✅      |          |          |
 |     vue-vben-admin     |    ✅    |      ✅      |    ✅    |    ✅    |
 |   vue3-element-admin   |    ✅    |      ✅      |          |          |
+|     vue-bag-admin      |    ✅    |      ✅      |          |          |
 | Fantastic-admin 基础版 |          |      ✅      |    ✅    |    ✅    |
 | Fantastic-admin 专业版 |    ✅    |      ✅      |    ✅    |    ✅    |
 
@@ -164,8 +169,9 @@
 |     v3-admin-vite      |  ✅  |  ✅  |  ✅  |          |      |  ✅  |      |          |          |     ✅     |        |
 |     soybean-admin      |  ✅  |  ✅  |  ✅  |          |      |  ✅  |  ✅  |          |          |            |        |
 |     naive-ui-admin     |  ✅  |  ✅  |  ✅  |          |      |  ✅  |  ✅  |          |          |            |        |
-|     vue-vben-admin     |  ✅  |  ✅  |  ✅  |          |      |  ✅  |  ✅  |          |          |            |        |
+|     vue-vben-admin     |  ✅  |  ✅  |  ✅  |    ✅    |  ✅  |  ✅  |  ✅  |          |          |            |   ✅   |
 |   vue3-element-admin   |  ✅  |  ✅  |  ✅  |          |      |      |      |          |          |     ✅     |        |
+|     vue-bag-admin      |  ✅  |  ✅  |  ✅  |          |  ✅  |      |  ✅  |          |          |            |        |
 | Fantastic-admin 基础版 |  ✅  |  ✅  |  ✅  |          |      |  ✅  |      |    ✅    |          |     ✅     |        |
 | Fantastic-admin 专业版 |  ✅  |  ✅  |  ✅  |    ✅    |  ✅  |  ✅  |  ✅  |    ✅    |    ✅    |     ✅     |   ✅   |
 
@@ -189,8 +195,9 @@
 |     v3-admin-vite      |          |    ✅    |          |      |   ✅   |      |        |   ✅   |
 |     soybean-admin      |    ✅    |    ✅    |          |  ✅  |   ✅   |      |        |   ✅   |
 |     naive-ui-admin     |          |    ✅    |    ✅    |  ✅  |        |      |        |   ✅   |
-|     vue-vben-admin     |          |    ✅    |    ✅    |  ✅  |   ✅   |      |        |   ✅   |
+|     vue-vben-admin     |    ✅    |    ✅    |    ✅    |  ✅  |   ✅   |      |        |   ✅   |
 |   vue3-element-admin   |          |    ✅    |          |      |        |      |        |        |
+|     vue-bag-admin      |          |          |          |      |        |      |        |        |
 | Fantastic-admin 基础版 |    ✅    |    ✅    |    ✅    |      |        |      |   ✅   |        |
 | Fantastic-admin 专业版 |    ✅    |    ✅    |    ✅    |  ✅  |   ✅   |  ✅  |   ✅   |   ✅   |
 
@@ -205,6 +212,7 @@
 |     naive-ui-admin     |          |          |              |        |
 |     vue-vben-admin     |    ✅    |          |              |   ✅   |
 |   vue3-element-admin   |          |          |              |        |
+|     vue-bag-admin      |          |          |              |        |
 | Fantastic-admin 基础版 |    ✅    |          |              |   ✅   |
 | Fantastic-admin 专业版 |    ✅    |    ✅    |      ✅      |   ✅   |
 
@@ -219,6 +227,7 @@
 |     naive-ui-admin     |        |         |
 |     vue-vben-admin     |   ✅   |         |
 |   vue3-element-admin   |   ✅   |         |
+|     vue-bag-admin      |   ✅   |         |
 | Fantastic-admin 基础版 |        |         |
 | Fantastic-admin 专业版 |   ✅   |   ✅    |
 
@@ -234,8 +243,9 @@
 |     v3-admin-vite      |    ✅    |    ✅    |          |
 |     soybean-admin      |    ✅    |          |          |
 |     naive-ui-admin     |    ✅    |    ✅    |          |
-|     vue-vben-admin     |    ✅    |    ✅    |          |
+|     vue-vben-admin     |    ✅    |    ✅    |    ✅    |
 |   vue3-element-admin   |    ✅    |    ✅    |          |
+|     vue-bag-admin      |          |          |          |
 | Fantastic-admin 基础版 |    ✅    |    ✅    |    ✅    |
 | Fantastic-admin 专业版 |    ✅    |    ✅    |    ✅    |
 
@@ -250,5 +260,6 @@
 |     naive-ui-admin     |     ✅     |    ✅    |  ✅  |  ✅  |      |      |
 |     vue-vben-admin     |     ✅     |    ✅    |  ✅  |  ✅  |  ✅  |  ✅  |
 |   vue3-element-admin   |     ✅     |    ✅    |  ✅  |      |  ✅  |      |
+|     vue-bag-admin      |     ✅     |    ✅    |  ✅  |      |  ✅  |  ✅  |
 | Fantastic-admin 基础版 |     ✅     |    ✅    |  ✅  |      |      |  ✅  |
 | Fantastic-admin 专业版 |     ✅     |    ✅    |  ✅  |      |  ✅  |  ✅  |
