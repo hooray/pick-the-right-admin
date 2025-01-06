@@ -44,7 +44,7 @@
 |     v3-admin-vite      |                  [Element Plus](https://element-plus.org/)                  |
 |     soybean-admin      | [Naive UI](https://www.naiveui.com/) / [Ant Design Vue](https://antdv.com/) |
 |     naive-ui-admin     |                    [Naive UI](https://www.naiveui.com/)                     |
-|     vue-vben-admin     |                    [Ant Design Vue](https://antdv.com/)                     |
+|     vue-vben-admin     |          [Ant Design Vue](https://antdv.com/) / 支持更换任意 UI 库          |
 |   vue3-element-admin   |                  [Element Plus](https://element-plus.org/)                  |
 |     vue-bag-admin      |                    [Naive UI](https://www.naiveui.com/)                     |
 | Fantastic-admin 基础版 |       [Element Plus](https://element-plus.org/) / 支持更换任意 UI 库        |
