@@ -15,18 +15,18 @@
 ## 入选系统
 
 > [!TIP]
-> 使用 Github 高级搜索 `stars:>1000 language:Vue language:Typescript pushed:>2024-10-01 admin` 进行初步筛选，再进行人肉筛选。
+> 使用 Github 高级搜索 `stars:>1000 language:Vue language:Typescript pushed:>2025-07-01 admin` 进行初步筛选，再进行人肉筛选。
 
 |                              后台管理系统                              |                                        星标                                         |                                 最近提交时间                                 |
 | :--------------------------------------------------------------------: | :---------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
 |     [vue-pure-admin](https://github.com/pure-admin/vue-pure-admin)     |   ![](https://img.shields.io/github/stars/pure-admin/vue-pure-admin?style=social)   |   ![](https://img.shields.io/github/last-commit/pure-admin/vue-pure-admin)   |
-|      [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)       |   ![](https://img.shields.io/github/stars/HalseySpicy/Geeker-Admin?style=social)    |   ![](https://img.shields.io/github/last-commit/HalseySpicy/Geeker-Admin)    |
 |       [v3-admin-vite](https://github.com/un-pany/v3-admin-vite)        |     ![](https://img.shields.io/github/stars/un-pany/v3-admin-vite?style=social)     |     ![](https://img.shields.io/github/last-commit/un-pany/v3-admin-vite)     |
 |      [soybean-admin](https://github.com/soybeanjs/soybean-admin)       |    ![](https://img.shields.io/github/stars/soybeanjs/soybean-admin?style=social)    |    ![](https://img.shields.io/github/last-commit/soybeanjs/soybean-admin)    |
 |       [naive-ui-admin](https://github.com/jekip/naive-ui-admin)        |     ![](https://img.shields.io/github/stars/jekip/naive-ui-admin?style=social)      |     ![](https://img.shields.io/github/last-commit/jekip/naive-ui-admin)      |
 |       [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)       |     ![](https://img.shields.io/github/stars/vbenjs/vue-vben-admin?style=social)     |     ![](https://img.shields.io/github/last-commit/vbenjs/vue-vben-admin)     |
 | [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) | ![](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?style=social) | ![](https://img.shields.io/github/last-commit/youlaitech/vue3-element-admin) |
 |       [vue-bag-admin](https://github.com/hangjob/vue-bag-admin)        |     ![](https://img.shields.io/github/stars/hangjob/vue-bag-admin?style=social)     |     ![](https://img.shields.io/github/last-commit/hangjob/vue-bag-admin)     |
+|     [art-design-pro](https://github.com/Daymychen/art-design-pro)      |   ![](https://img.shields.io/github/stars/Daymychen/art-design-pro?style=social)    |   ![](https://img.shields.io/github/last-commit/Daymychen/art-design-pro)    |
 |   [Fantastic-admin 基础版](https://github.com/fantastic-admin/basic)   |     ![](https://img.shields.io/github/stars/fantastic-admin/basic?style=social)     |     ![](https://img.shields.io/github/last-commit/fantastic-admin/basic)     |
 |  [Fantastic-admin 专业版](https://fantastic-admin.github.io/buy.html)  |                                                                                     |                                                                              |
 
@@ -40,13 +40,13 @@
 |      后台管理系统      |                                    UI 库                                    |
 | :--------------------: | :-------------------------------------------------------------------------: |
 |     vue-pure-admin     |                  [Element Plus](https://element-plus.org/)                  |
-|      Geeker-Admin      |                  [Element Plus](https://element-plus.org/)                  |
 |     v3-admin-vite      |                  [Element Plus](https://element-plus.org/)                  |
 |     soybean-admin      | [Naive UI](https://www.naiveui.com/) / [Ant Design Vue](https://antdv.com/) |
 |     naive-ui-admin     |                    [Naive UI](https://www.naiveui.com/)                     |
 |     vue-vben-admin     |          [Ant Design Vue](https://antdv.com/) / 支持更换任意 UI 库          |
 |   vue3-element-admin   |                  [Element Plus](https://element-plus.org/)                  |
 |     vue-bag-admin      |                    [Naive UI](https://www.naiveui.com/)                     |
+|     art-design-pro     |                  [Element Plus](https://element-plus.org/)                  |
 | Fantastic-admin 基础版 |       [Element Plus](https://element-plus.org/) / 支持更换任意 UI 库        |
 | Fantastic-admin 专业版 |       [Element Plus](https://element-plus.org/) / 支持更换任意 UI 库        |
 
@@ -58,13 +58,13 @@
 |      后台管理系统      | 是否提供纯净版 |
 | :--------------------: | :------------: |
 |     vue-pure-admin     |       ✅       |
-|      Geeker-Admin      |       ✅       |
 |     v3-admin-vite      |                |
 |     soybean-admin      |                |
 |     naive-ui-admin     |                |
-|     vue-vben-admin     |                |
+|     vue-vben-admin     |       ✅       |
 |   vue3-element-admin   |       ✅       |
 |     vue-bag-admin      |                |
+|     art-design-pro     |       ✅       |
 | Fantastic-admin 基础版 |       ✅       |
 | Fantastic-admin 专业版 |       ✅       |
 
@@ -120,13 +120,13 @@
 |      后台管理系统      | 布局1 | 布局2 | 布局3 | 布局4 | 布局5 | 布局6 | 布局7 |
 | :--------------------: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |     vue-pure-admin     |  ✅   |       |  ✅   |  ✅   |  ✅   |       |       |
-|      Geeker-Admin      |  ✅   |  ✅   |       |  ✅   |  ✅   |       |       |
 |     v3-admin-vite      |  ✅   |       |       |  ✅   |  ✅   |       |       |
 |     soybean-admin      |  ✅   |  ✅   |  ✅   |  ✅   |  ✅   |       |       |
 |     naive-ui-admin     |  ✅   |       |       |  ✅   |  ✅   |       |       |
 |     vue-vben-admin     |  ✅   |  ✅   |  ✅   |  ✅   |  ✅   |       |       |
 |   vue3-element-admin   |  ✅   |       |  ✅   |  ✅   |  ✅   |       |       |
 |     vue-bag-admin      |  ✅   |  ✅   |       |       |  ✅   |       |       |
+|     art-design-pro     |  ✅   |  ✅   |  ✅   |  ✅   |       |       |       |
 | Fantastic-admin 基础版 |  ✅   |  ✅   |  ✅   |       |  ✅   |       |       |
 | Fantastic-admin 专业版 |  ✅   |  ✅   |  ✅   |  ✅   |  ✅   |  ✅   |  ✅   |
 
@@ -135,13 +135,13 @@
 |      后台管理系统      | 主题设置 | 明暗模式切换 | 灰色模式 | 色弱模式 |
 | :--------------------: | :------: | :----------: | :------: | :------: |
 |     vue-pure-admin     |    ✅    |      ✅      |    ✅    |    ✅    |
-|      Geeker-Admin      |          |      ✅      |    ✅    |    ✅    |
 |     v3-admin-vite      |    ✅    |      ✅      |    ✅    |    ✅    |
 |     soybean-admin      |    ✅    |      ✅      |    ✅    |          |
 |     naive-ui-admin     |    ✅    |      ✅      |          |          |
 |     vue-vben-admin     |    ✅    |      ✅      |    ✅    |    ✅    |
 |   vue3-element-admin   |    ✅    |      ✅      |          |          |
 |     vue-bag-admin      |    ✅    |      ✅      |          |          |
+|     art-design-pro     |    ✅    |      ✅      |          |    ✅    |
 | Fantastic-admin 基础版 |          |      ✅      |    ✅    |    ✅    |
 | Fantastic-admin 专业版 |    ✅    |      ✅      |    ✅    |    ✅    |
 
@@ -165,13 +165,13 @@
 |      后台管理系统      | 鉴权 | 缓存 | 图标 | 激活图标 | 徽章 | 外链 | 内嵌 | 默认展开 | 始终展开 | 新窗口打开 | 收藏夹 |
 | :--------------------: | :--: | :--: | :--: | :------: | :--: | :--: | :--: | :------: | :------: | :--------: | :----: |
 |     vue-pure-admin     |  ✅  |  ✅  |  ✅  |          |  ✅  |  ✅  |  ✅  |          |          |     ✅     |   ✅   |
-|      Geeker-Admin      |  ✅  |  ✅  |  ✅  |          |      |  ✅  |      |          |          |            |        |
 |     v3-admin-vite      |  ✅  |  ✅  |  ✅  |          |      |  ✅  |      |          |          |     ✅     |        |
 |     soybean-admin      |  ✅  |  ✅  |  ✅  |          |      |  ✅  |  ✅  |          |          |            |        |
 |     naive-ui-admin     |  ✅  |  ✅  |  ✅  |          |      |  ✅  |  ✅  |          |          |            |        |
 |     vue-vben-admin     |  ✅  |  ✅  |  ✅  |    ✅    |  ✅  |  ✅  |  ✅  |          |          |            |   ✅   |
 |   vue3-element-admin   |  ✅  |  ✅  |  ✅  |          |      |      |      |          |          |     ✅     |        |
 |     vue-bag-admin      |  ✅  |  ✅  |  ✅  |          |  ✅  |      |  ✅  |          |          |            |        |
+|     art-design-pro     |  ✅  |  ✅  |  ✅  |          |  ✅  |  ✅  |  ✅  |          |          |            |        |
 | Fantastic-admin 基础版 |  ✅  |  ✅  |  ✅  |          |      |  ✅  |      |    ✅    |          |     ✅     |        |
 | Fantastic-admin 专业版 |  ✅  |  ✅  |  ✅  |    ✅    |  ✅  |  ✅  |  ✅  |    ✅    |    ✅    |     ✅     |   ✅   |
 
@@ -191,13 +191,13 @@
 |      后台管理系统      | 显示图标 | 快捷操作 | 拖拽排序 | 常驻 | 最大化 | 合并 | 快捷键 | 持久化 |
 | :--------------------: | :------: | :------: | :------: | :--: | :----: | :--: | :----: | :----: |
 |     vue-pure-admin     |          |    ✅    |          |  ✅  |   ✅   |      |        |   ✅   |
-|      Geeker-Admin      |    ✅    |    ✅    |          |  ✅  |   ✅   |      |        |   ✅   |
 |     v3-admin-vite      |          |    ✅    |          |      |   ✅   |      |        |   ✅   |
 |     soybean-admin      |    ✅    |    ✅    |          |  ✅  |   ✅   |      |        |   ✅   |
 |     naive-ui-admin     |          |    ✅    |    ✅    |  ✅  |        |      |        |   ✅   |
 |     vue-vben-admin     |    ✅    |    ✅    |    ✅    |  ✅  |   ✅   |      |        |   ✅   |
 |   vue3-element-admin   |          |    ✅    |          |      |        |      |        |        |
 |     vue-bag-admin      |          |          |          |      |        |      |        |        |
+|     art-design-pro     |          |    ✅    |          |  ✅  |        |      |        |   ✅   |
 | Fantastic-admin 基础版 |    ✅    |    ✅    |    ✅    |      |        |      |   ✅   |        |
 | Fantastic-admin 专业版 |    ✅    |    ✅    |    ✅    |  ✅  |   ✅   |  ✅  |   ✅   |   ✅   |
 
@@ -206,13 +206,13 @@
 |      后台管理系统      | 导航搜索 | 页签搜索 | 支持拼音搜索 | 快捷键 |
 | :--------------------: | :------: | :------: | :----------: | :----: |
 |     vue-pure-admin     |    ✅    |          |      ✅      |   ✅   |
-|      Geeker-Admin      |    ✅    |          |              |   ✅   |
 |     v3-admin-vite      |    ✅    |          |              |   ✅   |
 |     soybean-admin      |    ✅    |          |              |   ✅   |
 |     naive-ui-admin     |          |          |              |        |
 |     vue-vben-admin     |    ✅    |          |              |   ✅   |
 |   vue3-element-admin   |          |          |              |        |
 |     vue-bag-admin      |          |          |              |        |
+|     art-design-pro     |    ✅    |          |              |   ✅   |
 | Fantastic-admin 基础版 |    ✅    |          |              |   ✅   |
 | Fantastic-admin 专业版 |    ✅    |    ✅    |      ✅      |   ✅   |
 
@@ -221,13 +221,13 @@
 |      后台管理系统      | 国际化 | RTL模式 |
 | :--------------------: | :----: | :-----: |
 |     vue-pure-admin     |   ✅   |         |
-|      Geeker-Admin      |   ✅   |         |
 |     v3-admin-vite      |        |         |
 |     soybean-admin      |   ✅   |         |
 |     naive-ui-admin     |        |         |
 |     vue-vben-admin     |   ✅   |         |
 |   vue3-element-admin   |   ✅   |         |
 |     vue-bag-admin      |   ✅   |         |
+|     art-design-pro     |   ✅   |         |
 | Fantastic-admin 基础版 |        |         |
 | Fantastic-admin 专业版 |   ✅   |   ✅    |
 
@@ -239,13 +239,13 @@
 |      后台管理系统      | 鉴权函数 | 鉴权指令 | 鉴权组件 |
 | :--------------------: | :------: | :------: | :------: |
 |     vue-pure-admin     |    ✅    |    ✅    |    ✅    |
-|      Geeker-Admin      |    ✅    |    ✅    |          |
 |     v3-admin-vite      |    ✅    |    ✅    |          |
 |     soybean-admin      |    ✅    |          |          |
 |     naive-ui-admin     |    ✅    |    ✅    |          |
 |     vue-vben-admin     |    ✅    |    ✅    |    ✅    |
 |   vue3-element-admin   |    ✅    |    ✅    |          |
 |     vue-bag-admin      |          |          |          |
+|     art-design-pro     |    ✅    |    ✅    |          |
 | Fantastic-admin 基础版 |    ✅    |    ✅    |    ✅    |
 | Fantastic-admin 专业版 |    ✅    |    ✅    |    ✅    |
 
@@ -254,12 +254,12 @@
 |      后台管理系统      | 面包屑导航 | 页面重载 | 全屏 | 锁屏 | 水印 | 页脚 |
 | :--------------------: | :--------: | :------: | :--: | :--: | :--: | :--: |
 |     vue-pure-admin     |     ✅     |    ✅    |  ✅  |      |  ✅  |  ✅  |
-|      Geeker-Admin      |     ✅     |          |  ✅  |      |  ✅  |  ✅  |
 |     v3-admin-vite      |     ✅     |    ✅    |  ✅  |      |  ✅  |  ✅  |
 |     soybean-admin      |     ✅     |    ✅    |  ✅  |      |      |  ✅  |
 |     naive-ui-admin     |     ✅     |    ✅    |  ✅  |  ✅  |      |      |
 |     vue-vben-admin     |     ✅     |    ✅    |  ✅  |  ✅  |  ✅  |  ✅  |
 |   vue3-element-admin   |     ✅     |    ✅    |  ✅  |      |  ✅  |      |
 |     vue-bag-admin      |     ✅     |    ✅    |  ✅  |      |  ✅  |  ✅  |
+|     art-design-pro     |     ✅     |    ✅    |  ✅  |  ✅  |  ✅  |      |
 | Fantastic-admin 基础版 |     ✅     |    ✅    |  ✅  |      |      |  ✅  |
-| Fantastic-admin 专业版 |     ✅     |    ✅    |  ✅  |      |  ✅  |  ✅  |
+| Fantastic-admin 专业版 |     ✅     |    ✅    |  ✅  |  ✅  |  ✅  |  ✅  |
