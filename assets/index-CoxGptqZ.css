@@ -1,0 +1,8 @@
+
+/**
+ * 由 Fantastic-admin 提供技术支持
+ * Powered by Fantastic-admin
+ * https://fantastic-admin.hurui.me
+ */
+    
+.main-sidebar-container[data-v-08e289b1]{position:relative;z-index:10;display:flex;flex-direction:column;width:var(--g-main-sidebar-width);color:var(--g-main-sidebar-menu-color);background-color:var(--g-main-sidebar-bg);box-shadow:1px 0 hsl(var(--border)),-1px 0 hsl(var(--border));transition:background-color .3s,color .3s,box-shadow .3s}.main-sidebar-container .sidebar-logo[data-v-08e289b1]{background-color:var(--g-main-sidebar-bg);transition:background-color .3s}.main-sidebar-container .menu[data-v-08e289b1] .menu-item .menu-item-container{padding-block:8px;color:var(--g-main-sidebar-menu-color)}.main-sidebar-container .menu[data-v-08e289b1] .menu-item .menu-item-container:hover{color:var(--g-main-sidebar-menu-hover-color);background-color:var(--g-main-sidebar-menu-hover-bg)}.main-sidebar-container .menu[data-v-08e289b1] .menu-item .menu-item-container .menu-item-container-icon{font-size:20px!important}.main-sidebar-container .menu[data-v-08e289b1] .menu-item.active .menu-item-container{color:var(--g-main-sidebar-menu-active-color)!important;background-color:var(--g-main-sidebar-menu-active-bg)!important}.main-sidebar-enter-active[data-v-08e289b1],.main-sidebar-leave-active[data-v-08e289b1]{transition:.3s}.main-sidebar-enter-from[data-v-08e289b1],.main-sidebar-leave-to[data-v-08e289b1]{transform:translate(calc(var(--g-main-sidebar-width) * -1))}
