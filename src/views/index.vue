@@ -80,6 +80,9 @@ const layouts = Object.keys(FrameworkLayout).filter(key => !Number.isNaN(Number(
           举例来说，水印功能有的框架是支持全局设置，而有的框架则是页面级别的设置，我会一律视为支持该功能。
         </p>
       </FaModal>
+      <FaButton variant="secondary" size="icon" class="size-9" @click="handleOpen('https://github.com/hooray/pick-the-right-admin')">
+        <FaIcon name="i-simple-icons:github" class="size-4" />
+      </FaButton>
       <ColorScheme />
     </FaPageHeader>
     <FaPageMain class="flex-1 overflow-auto" title-class="flex flex-col gap-2" main-class="flex flex-col overflow-auto">
