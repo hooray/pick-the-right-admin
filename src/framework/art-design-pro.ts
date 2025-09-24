@@ -6,7 +6,7 @@ const infos: Framework = {
   repo: 'Daymychen/art-design-pro',
   logo: 'https://www.lingchen.kim/art-design-pro/docs/logo.webp',
   docs: 'https://www.lingchen.kim/art-design-pro/docs/',
-  ui: FrameworkUI.Ant_Design_Vue,
+  ui: FrameworkUI.Element_Plus,
   pure: true,
   themes: true,
   lightDark: true,
