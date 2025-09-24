@@ -130,14 +130,14 @@ const layouts = Object.keys(FrameworkLayout).filter(key => !Number.isNaN(Number(
               <template v-if="typeof row.ui === 'string'">
                 <FaIcon v-if="row.ui !== ''" :name="row.ui" class="size-5" />
                 <FaTooltip v-else text="可更换任意 UI 库">
-                  <FaIcon name="i-twemoji:check-mark-button" class="size-5" />
+                  <FaIcon name="i-uiw:more" class="size-5" />
                 </FaTooltip>
               </template>
               <template v-else>
                 <template v-for="ui in row.ui" :key="ui">
                   <FaIcon v-if="ui !== ''" :name="ui" class="size-5" />
                   <FaTooltip v-else text="可更换任意 UI 库">
-                    <FaIcon name="i-twemoji:check-mark-button" class="size-5" />
+                    <FaIcon name="i-uiw:more" class="size-5" />
                   </FaTooltip>
                 </template>
               </template>
