@@ -4,8 +4,8 @@ import { FrameworkLayout, FrameworkUI } from '@/enum'
 const infos: Framework = {
   name: 'art-design-pro',
   repo: 'Daymychen/art-design-pro',
-  logo: 'https://www.lingchen.kim/art-design-pro/docs/logo.webp',
-  docs: 'https://www.lingchen.kim/art-design-pro/docs/',
+  logo: 'https://www.artd.pro/docs/logo.webp',
+  docs: 'https://www.artd.pro/docs/',
   ui: FrameworkUI.Element_Plus,
   pure: true,
   themes: true,

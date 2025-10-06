@@ -1,6 +1,6 @@
 export enum FrameworkUI {
   Element_Plus = 'i-logos:element',
-  Ant_Design_Vue = 'https://aliyuncdn.antdv.com/favicon.ico',
+  Ant_Design_Vue = 'https://antdv.com/assets/logo.1ef800a8.svg',
   Naive_UI = 'i-logos:naiveui',
   可更换任意UI库 = '',
 }
